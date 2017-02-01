@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+node_modules/elm/binwrappers/elm-make Main.elm --output elm.js

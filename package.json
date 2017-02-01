@@ -1,0 +1,15 @@
+{
+  "name": "elm-serverless-backend",
+  "version": "1.0.0",
+  "description": "Elm Serverless Backend",
+  "main": "index.js",
+  "repository": "git@github.com:thewoolleyman/elm-serverless-backend.git",
+  "author": "Chad Woolley <thewoolleyman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "elm-webpack-loader": "^4.2.0"
+  },
+  "devDependencies": {
+    "webpack": "beta"
+  }
+}
